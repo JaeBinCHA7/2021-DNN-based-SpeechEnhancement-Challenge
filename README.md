@@ -2,9 +2,6 @@
 DNN-based Speech Enhancement in the frequency domain  
 
 # 팀 소개
-팀명 : 믿거조  
-팀장 : 차재빈  
-팀원 : 허명범, 이연재, 김승연, 서은빈  
 주제 : Data Augmentation을 통한 DNN 기반 음성 향상
 
 
